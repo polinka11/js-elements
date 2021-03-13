@@ -6,7 +6,7 @@ const box = document.getElementsById('box'),
     oneHeart = document.querySelector('.heart.first');
     hearts = document.querySelectorAll('.heart');
 
-console.log
+
 
 
 box.style.width = '500px';
